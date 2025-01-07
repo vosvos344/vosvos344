@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, World! 👋
 
 <!--
 **vosvos344/vosvos344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br>
+<br>
 <p align="center">사용자가 불편함 없이 이용할 수 있는 것을 만들기 위한<br>노력하는 FrontEnd Developer 입니다.</p>
 
 <!--타이틀 부분-->
