@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">사용자가 불편함 없이 이용할 수 있는 것을 만들기 위한</h3>
-<h3 align="center">노력하는 FrontEnd Developer 입니다.</h3>
+<p align="center">사용자가 불편함 없이 이용할 수 있는 것을 만들기 위한<br>노력하는 FrontEnd Developer 입니다.</p>
 
 <!--타이틀 부분-->
 <h3 align="center">📫 Contact 📫</h3>
