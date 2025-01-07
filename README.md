@@ -15,8 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--타이틀 부분-->
+<h3 align="center">사용자가 불편함 없이 이용할 수 있는 것을 만들기 위한</h3>
+<h3 align="center">노력하는 FrontEnd Developer 입니다.</h3>
 
+<!--타이틀 부분-->
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://ha-jenong.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-FE7433?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
+  </a>
+  <a href="vosvos344@gmail.com">
+    <img
+      src="https://img.shields.io/badge/vosvos344@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
+
+<br>
 
 <!--내용 부분-->
 <h3 align="center">✨ Skills ✨</h3>
@@ -84,15 +98,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />&nbsp
 </div>
 
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://ha-jenong.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-FE7433?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
-  </a>
-  <a href="vosvos344@gmail.com">
-    <img
-      src="https://img.shields.io/badge/vosvos344@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
